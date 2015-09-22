@@ -5,7 +5,7 @@ android {
     buildToolsVersion "22.0.1"
 
     defaultConfig {
-        applicationId "com.example.will.spelllist"
+        applicationId "com.example.will.spelllistdnd"
         minSdkVersion 15
         targetSdkVersion 22
         versionCode 1

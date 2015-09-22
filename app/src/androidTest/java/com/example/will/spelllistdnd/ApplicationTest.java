@@ -1,4 +1,4 @@
-package com.example.will.spelllist;
+package com.example.will.spelllistdnd;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
